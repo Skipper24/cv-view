@@ -1,11 +1,12 @@
 
 title: My Resume
-url: 'http://webjeda.com'
-baseurl: '/online-cv' #change it according to your repository name
+url: ''
+baseurl: '' #change it according to your repository name
 
 
-# Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
-#style: styles-2
+# Enable one of these styles by removing 
+#. Style will be applied only after restarting the build or serve.
+style: styles-2
 #style: styles-3
 #style: styles-4
 #style: styles-5
@@ -13,17 +14,17 @@ baseurl: '/online-cv' #change it according to your repository name
 
 
 #Profile information
-name: Alan Doe
-tagline: Full Stack Developer
+name: Christian Doctor
+tagline: IT Support Professional
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
-email: hello@webjeda.com
-phone: 012 345 6789
-website: blog.webjeda.com #do not add http://
-linkedin: alandoe
-github: sharu725
-twitter: '@webjeda'
+email: skipper24@outlook.com
+phone: 639185407120
+website: skipper24.wordpress.com #do not add http://
+linkedin: cedoctor
+github: skipper24
+twitter: ''
 
 
 # Tracker
